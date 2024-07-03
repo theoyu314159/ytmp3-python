@@ -5,14 +5,13 @@
 接著貼上按送出，
 我們就會在書櫥格輸出音樂給您，
 右上方也可下載。
+# 網站
+可直接進網址在裡面執行(較快):https://huggingface.co/spaces/hackeryu314159/ytmp3
 # 如何執行
 可以用我們上面給的app.py執行，
 不過需要自行安裝pytube,gradio，
 另一個是我們直接從colab下載的也可以直接使用，
 也可以直接進我們的colab執行喔：https://colab.research.google.com/drive/17hR70x0Q40Tjk1-pswy4RaNd4lpiwBCX?usp=sharing。
-# 放上網
-目前因為還在測試，
-所以還未出版。
 # 未來更新內容
 未來我們希望可以將他如果輸入無效網址可以輸出：請輸入正確網址等相關內容。
 # 執行成功畫面 
